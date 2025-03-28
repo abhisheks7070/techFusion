@@ -1,6 +1,6 @@
 # TechFusion Smartwatch Landing Page
 
-A responsive landing page for TechFusion's premium smartwatch lineup, built with React.js and Tailwind CSS.
+A responsive landing page for TechFusion's smartwatch lineup, built with React.js and Tailwind CSS.
 
 ## Features
 
@@ -8,8 +8,7 @@ A responsive landing page for TechFusion's premium smartwatch lineup, built with
 - **Modern UI**: Clean, professional design with animations
 - **Multiple Pages**: Home, About, Pricing, and Contact pages
 - **Smartwatch Focus**: Specialized pricing and features for wearable tech
-- **Interactive Elements**: Hover effects, dropdown menus, and CTAs
-- **Performance Optimized**: Fast loading with optimized assets
+- **Interactive Elements**: Hover effects, dropdown menus.
 
 ## Pages Included
 
