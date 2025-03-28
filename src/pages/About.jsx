@@ -145,7 +145,7 @@ const About = () => {
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 ">
                         {members.map((member) => (
                             <div key={member.name} className="bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition duration-300 transform hover:-translate-y-2">
-                                <img className="w-full h-64 object-cover bg-gradient-to-b from-red-300 to-red-200"
+                                <img className="m-auto lg:w-full h-80 w-70 lg:h-64 object-cover bg-gradient-to-b from-red-300 to-red-200 rounded-lg"
                                     loading='lazy'
                                     src={member.image}
                                     alt={member.name}

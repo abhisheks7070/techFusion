@@ -1,7 +1,5 @@
 # TechFusion Smartwatch Landing Page
 
-![TechFusion Smartwatch Demo](https://m.media-amazon.com/images/I/613G3YAzwgL._AC_SL1500_.jpg)
-
 A responsive landing page for TechFusion's premium smartwatch lineup, built with React.js and Tailwind CSS.
 
 ## Features
@@ -28,8 +26,3 @@ A responsive landing page for TechFusion's premium smartwatch lineup, built with
 - CSS Animations
 - Responsive Design Principles
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/techfusion-smartwatch.git
